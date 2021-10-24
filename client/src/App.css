@@ -1,0 +1,9 @@
+.heading{
+  border-bottom: 1px solid grey;
+}
+body{
+  background: #e1ff00;
+background: linear-gradient(180deg,#e1ff00 0%, #00fff9 80%);
+background: -webkit-linear-gradient(180deg,#e1ff00 0%, #00fff9 80%);
+background: -moz-linear-gradient(180deg,#e1ff00 0%, #00fff9 80%);
+}
